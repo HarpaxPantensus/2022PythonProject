@@ -6,9 +6,7 @@
 - Bütün taşlar yerleştirildikten sonra oyuncular elde ettikleri kareleri sayarlar ve elde ettikleri kare sayısı kadar seçecekleri rakip taşını oyun dışına çıkarırlar. Eğer hiçbir oyuncu kare elde edememişse, ilk oyuncu (beyaz taşlarla oynayan oyuncu) rakip taşlarından birini oyun dışına çıkarır. Oyunun herhangi bir aşamasında, dışarı çıkarılacak bir rakip taşı seçilirken oluşmuş kareler bozulamaz.
 - Daha sonra hamle sırası gelen oyuncu, kendi taşlarından birisini hareket ettirerek kare oluşturmaya çalışır. Önü boş olan taş istenildiği kadar yatay ya da dikey hareket ettirilebilir ancak taşların üzerinden hiçbir durumda atlanamaz. Yeni bir kare oluşturulduğu an, seçilen bir rakip taşı dışarı çıkarılır. Rakibin taş sayısını 3’e düşüren oyuncu oyunu kazanır.
 
-# Örnek bir oyun için bknz.
-
- https://youtu.be/4A1vGGDkAIg?t=178
+#### Örnek bir oyun için bknz.  https://youtu.be/4A1vGGDkAIg?t=178
 
  # Problem tanımı
 
